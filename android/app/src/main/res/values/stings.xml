@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Technical Services.</string>
+    <string name="facebook_app_id">761268268179732</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">619a93c71840e0e57e0705613e5dfa51</string>
+</resources>
