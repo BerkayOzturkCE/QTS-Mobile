@@ -10,7 +10,7 @@
     <br />
     <a href="https://github.com/BerkayOzturkCE/QTS-Mobile">Download</a>
     ·
-    <a href="-https://github.com/BerkayOzturkCE/QTS-Mobile/issues">Report Bug</a>
+    <a href="https://github.com/BerkayOzturkCE/QTS-Mobile/issues">Report Bug</a>
     ·
     <a href="https://github.com/BerkayOzturkCE/QTS-Mobile/issues">Request Feature</a>
   </p>
